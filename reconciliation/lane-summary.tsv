@@ -1,0 +1,5 @@
+lane	shipments	stable	excursion	no_data	accepted_readings	excursion_readings
+ARN-LHR	2	0	1	1	4	2
+HEL-BER	1	0	0	1	0	0
+LHR-DUB	2	1	1	0	4	1
+OSL-AMS	1	0	1	0	3	2

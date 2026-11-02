@@ -1,0 +1,7 @@
+shipment_id	lane	commodity	accepted_readings	low_readings	high_readings	first_excursion_at	latest_accepted_at	peak_deviation_tenths	status
+SHP-A	ARN-LHR	Vaccine kit	4	1	1	2026-02-14T07:00:00Z	2026-02-14T10:00:00Z	10	EXCURSION
+SHP-B	LHR-DUB	Plasma pack	2	1	0	2026-02-14T11:00:00Z	2026-02-14T12:00:00Z	10	EXCURSION
+SHP-C	ARN-LHR	Diagnostic reagent	0	0	0	-	-	-	NO_DATA
+SHP-D	OSL-AMS	Biologic vial	3	1	1	2026-02-14T09:00:00Z	2026-02-14T10:00:00Z	5	EXCURSION
+SHP-E	LHR-DUB	Enzyme panel	2	0	0	-	2026-02-14T09:00:00Z	0	STABLE
+SHP-F	HEL-BER	Cell culture	0	0	0	-	-	-	NO_DATA
