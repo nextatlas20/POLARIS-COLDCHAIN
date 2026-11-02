@@ -1,0 +1,7 @@
+shipment_id	lane	commodity	min_temp_tenths	max_temp_tenths
+SHP-A	ARN-LHR	Vaccine kit	20	80
+SHP-B	LHR-DUB	Plasma pack	-50	20
+SHP-C	ARN-LHR	Diagnostic reagent	0	50
+SHP-D	OSL-AMS	Biologic vial	15	25
+SHP-E	LHR-DUB	Enzyme panel	-20	40
+SHP-F	HEL-BER	Cell culture	10	30
